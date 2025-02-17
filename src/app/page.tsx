@@ -117,7 +117,7 @@ export default function Home() {
             className="flex gap-3 px-6 py-3 bg-transparent border-2 border-blue-500 hover:border-blue-600 font-semibold rounded-full transition-all"
             whileHover={{ scale: 1.1 }}
           >
-            Let's Talk
+            Lets Talk
             <FaEnvelope size={20} />
           </motion.a>
 
